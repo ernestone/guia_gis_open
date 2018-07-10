@@ -1,0 +1,14 @@
+name: spatial
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - folium
+  - ipyleaflet
+  - geopandas
+  - altair
+  - plotly
+  - nodejs
+  - pip:
+    - altair_widgets
+    - json2html
